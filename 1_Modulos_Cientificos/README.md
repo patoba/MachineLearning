@@ -11,29 +11,33 @@ Indice
 **[1. Matplotilb][1]**  
 **[2. Numppy][2]**  
 **[3. Pandas][3]**  
-**[4. Pandas][4]**
+**[4. Tiempo][4]**
 
 ### 1. Matplotlib  
 Matplotlib es una biblioteca de python dedicada a la graficación en 2D. La filosofia de Matplotlib es hacer las cosas faciles y las dificiles posibles.  
+**[Ver más..][1]**
 
-####Figure  
-Figure es una clase del paquete matplotlib.pyplot. Figure es la clase donde estaremos utilizando todas las demas clases hijas. Es la ventana donde estará la gráfica, ejes.  
-Algunos de los parametros mas importantes de figure.  
+### 2. Numpy  
 
-    | Nombre    | Descripcion                                      |  
-    |-----------|--------------------------------------------------|  
-    | figsize   | Recibe una tupla con las dimensiones en pulgadas |  
-    | linewidth | Recibe la anchura del frame                      |  
-    | dpi       | Define cantidad de puntos por pulgada.           |  
-  
-```
-Utilizamos este comando para especificar a matplotlib que sera usado en jupyter  
-% matplotlib notebook   
-import matplotlib.pyplot as plt
-import numpy as np
-```
+NumPy es la principal biblioteca de la computación científica en python. El corazón de NumPy es la clase ndarray con esta podemos realizar diferentes tipos de operaciones matemáticas como:
+    * Algebra Lineal Basica
+    * Operaciones Lógicas
+    * Ordenamiento
+    * Operaciones estadísticas básicas
+    * Transformaciones discretas de Fourier  
 
-[1]:https://github.com/patoba/MachineLearning/blob/master/1_Modulos_Cientificos#1-matplotlib '1. Matplotlib'
+**[Ver más...][2]**  
+
+### 3. Pandas  
+Pandas es una biblioteca de python que permite la manipulacion y analisis de datos para el lenguaje Python. Para importala hacemos lo siguiente:  
+**[Ver más...][3]**  
+
+### 4. Tiempo  
+En este apartado encontrarás códigos del tiempo que se tarda en ejecutar un multiplicación de dos matrices dependiendo las implementación que se ocupe.  
+**[Ver más...][4]**  
+
+
+[1]:https://github.com/patoba/MachineLearning/blob/master/1_Modulos_Cientificos/Matplotlib.ipynb
 [2]:https://github.com/patoba/MachineLearning/blob/master/1_Modulos_Cientificos/Numpy.ipynb  
 [3]:https://github.com/patoba/MachineLearning/blob/master/1_Modulos_Cientificos/Pandas.ipynb  
 [4]:https://github.com/patoba/MachineLearning/blob/master/1_Modulos_Cientificos/Pandas.ipynb  
