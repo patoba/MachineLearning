@@ -20,11 +20,11 @@ Matplotlib es una biblioteca de python dedicada a la graficación en 2D. La filo
 ### 2. Numpy  
 
 NumPy es la principal biblioteca de la computación científica en python. El corazón de NumPy es la clase ndarray con esta podemos realizar diferentes tipos de operaciones matemáticas como:  
-    * Algebra Lineal Basica  
-    * Operaciones Lógicas  
-    * Ordenamiento  
-    * Operaciones estadísticas básicas  
-    * Transformaciones discretas de Fourier  
+* Algebra Lineal Basica  
+* Operaciones Lógicas  
+* Ordenamiento  
+* Operaciones estadísticas básicas  
+* Transformaciones discretas de Fourier  
 
 **[Ver más...][2]**  
 
